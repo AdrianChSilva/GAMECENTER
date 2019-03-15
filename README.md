@@ -13,4 +13,9 @@ Después, necesitarás un usuario para poder entrar a ella:</br>
 
 Cada usuario puede hacer y ver cosas distintas de la página.
 
+## API REST 
+
+He utilizado dos APIs para asignar una foto de perfil al usuario registrado en función del género seleccionado.</br>
+Género Masculino - https://dog.ceo/dog-api/</br>
+Género Femenino - https://aws.random.cat/
 
